@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Desenvolvedor Web.<br>👯 Estou a procura de oportunidades como Dev Web.<br>🌱 Atualmente estou aprendendo HTML, CSS, JS e Angular.<br>⚡ "Fã-boy" do ecossistema Linux.
+🔭 Desenvolvedor Web.<br>👯 Estou a procura de oportunidades como Dev Web.<br>🌱 Atualmente, estudo voltado para WEB, com noções de HTML, CSS, JS e VUE.<br>⚡
 
 
 ## 🌐 Socials:
